@@ -1,0 +1,5 @@
+{
+  "//": "Some browsers will use this to enable push notifications.",
+
+  "gcm_sender_id": "91734333449"
+}
